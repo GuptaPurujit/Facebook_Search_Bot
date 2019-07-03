@@ -1,4 +1,4 @@
-# Facebook__Search_Bot
+# Facebook_Search_Bot
 This program automatically logs onto facebook by the user just providing their user-id and password and then can be used to make a basic search on facebook.
 
 ## Getting Started
