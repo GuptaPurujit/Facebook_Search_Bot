@@ -5,8 +5,8 @@ driver = webdriver.Chrome("C:/Users/Purujit/Desktop/facebook_bot/chromedriver")
 
 url = 'https://www.facebook.com/'
 driver.get(url)
-username = '9610526978'
-password = 'travel@123'
+username = 'enter username here'
+password = 'enter password here'
 driver.find_element_by_id('email').send_keys(username)
 driver.find_element_by_id('pass').send_keys(password)
 driver.find_element_by_id('loginbutton').click()
