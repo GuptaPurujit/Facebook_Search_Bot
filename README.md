@@ -1,5 +1,5 @@
 # Facebook__Search_Bot
-This is program automatically logs onto facebook by the user just providing their user-id and password and then can be used to make a basic search on facebook.
+This program automatically logs onto facebook by the user just providing their user-id and password and then can be used to make a basic search on facebook.
 
 ## Getting Started
 All the libraries and stuff that has to be installed through `pip install` are listed in the `requirement_fb.txt` file.
