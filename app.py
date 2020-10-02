@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time
 
-driver = webdriver.Chrome("C:/Users/Purujit/Desktop/facebook_bot/chromedriver")
+driver = webdriver.Chrome("Enter your driver path here")
 
 url = 'https://www.facebook.com/'
 driver.get(url)

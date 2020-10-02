@@ -6,6 +6,8 @@ All the libraries and stuff that has to be installed through `pip install` are l
 
 You can directly add them to the directory using the command `pip install -r requirement_fb.txt`.  
 
+After installing the pacakages you'll need to install chromedriver on your machine.Once you install chromedriver you'll need to copy it's path and paste it inside App.js .
+
 In the main file is `app.py`, there are two field where one has to enter their own data, they are username and password fields.
 
 ## Prerequesites
